@@ -1,1 +1,3 @@
 # Stroke-Prediction-On-Hospital-Patients
+Strokes are the second leading cause of death in the world according to the World Health Organization and are responsible for 11% of total deaths. Every year 15 million people suffer a stroke, 5 million of which pass away and another 5 million of which are left with a permanent disability (WHO, 2021)
+Since many of these strokes are preventable through healthy habit forming and monitoring those at the highest risk can have a significant improvement in outcomes. For this reason, In this report I aimed to analyze  the data set of hospital patients for the purpose of assigning risk factors to strokes and making recommendations to help prevent this event.
